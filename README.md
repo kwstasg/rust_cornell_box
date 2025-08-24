@@ -18,7 +18,7 @@ Clone and run directly:
 git clone https://github.com/kwstasg/rust_cornell_box.git
 cd rust_cornell_box
 cargo run --release
-
+```
 
 🛠️ Requirements
 Rust (latest stable) — install via https://rustup.rs/
