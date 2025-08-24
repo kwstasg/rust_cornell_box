@@ -21,9 +21,9 @@ cargo run --release
 ```
 
 🛠️ Requirements
-Rust (latest stable) — install via https://rustup.rs/
-Bevy 0.16 — already specified in Cargo.toml
-GPU — Drivers with modern API support
+- Rust (latest stable) — install via https://rustup.rs/
+- Bevy 0.16 — already specified in Cargo.toml
+- GPU — Drivers with modern API support
 
 The app starts borderless fullscreen on the primary monitor.
 
