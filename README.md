@@ -10,6 +10,10 @@ A Bevy demo showcasing:
 
 ---
 
+## 📸 Screenshot
+
+<img src="./screenshots/demo.png" alt="Demo" width="600"/>
+
 ## 🚀 Run
 
 Clone and run directly:
